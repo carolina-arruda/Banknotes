@@ -1,5 +1,6 @@
 # Banknotes
-Detecting forged banknotes
+
+<i>Detecting forged banknotes</i>
 
 In this report we create a simple analysis to separate real and false banknotes using the K-Means clustering algorithm, based on the dataset available <a href='https://www.openml.org/d/1462'>here</a>.
 
